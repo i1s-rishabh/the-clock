@@ -6,6 +6,10 @@ Welcome to **The Clock** repository!
 
 **The Clock** is a simple web application that includes a stopwatch feature implemented using vanilla JavaScript. It's a minimalistic project that aims to provide a functional stopwatch and serve as a learning resource for JavaScript enthusiasts. We encourage contributions and bug reports from the community to make this project better.
 
+## Live Demo
+
+Check out the live demo of **The Clock** [here](https://i1s-rishabh.github.io/the-clock/).
+
 ## Current Features
 
 - Use a stopwatch with the following actions:
