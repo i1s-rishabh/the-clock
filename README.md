@@ -56,7 +56,7 @@ To run **The Clock** locally, follow these steps:
 
 ## Code of Conduct
 
-Please note that this project follows a [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful and considerate when interacting with other contributors and users.
+Please note that this project follows a https://www.contributor-covenant.org/ . Be respectful and considerate when interacting with other contributors and users.
 
 ## License
 
